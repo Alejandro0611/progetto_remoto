@@ -61,6 +61,10 @@ public class triangoloEquilatero extends Application {
 		risposta=""+area;
 		lRisultato.setText(risposta);
 	}
+
+	public void Anwar(){
+	int sono gay;
+	}
 	public static void main(String []args) {
 		launch(args);
 		
